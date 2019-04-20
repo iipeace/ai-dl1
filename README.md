@@ -1,4 +1,4 @@
-# Python와 TensorFlow로 배우는 머신러닝과 딥러닝의 이해
+# Tensorflow 기반 딥러닝 핵심과 활용(입문자 중심)
 ## 1.  AI 개요 
 * AI 개념과 역사 및 활용분야
 * AI 문제 해결 기술
